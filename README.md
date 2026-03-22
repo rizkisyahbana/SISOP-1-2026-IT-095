@@ -1,3 +1,4 @@
+
 # SISOP-1-2026-IT-095
 
 Repository ini berisi penyelesaian praktikum Sistem Operasi 2026.
@@ -48,3 +49,6 @@ Jumlah gerbong penumpang KANJ adalah 5
 Jaja Mihardja adalah penumpang kereta tertua dengan usia 85 tahun
 Rata-rata usia penumpang adalah 38 tahun
 Jumlah penumpang business class ada 74 orang
+=======
+# SISOP-1-2026-IT-095
+>>>>>>> a413f37456d26a285c975e75ddfea8729d4c8dec
