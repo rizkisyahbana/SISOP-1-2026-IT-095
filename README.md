@@ -19,15 +19,18 @@ Nur Rizki Syahbana_5027251095
 ### a. Menghitung jumlah penumpang
 
 #### Penjelasan
-Pada bagian ini dilakukan perhitungan jumlah seluruh penumpang kerta pada file passenger.csv dengan mengabaikan baris header.
+Pada bagian ini dilakukan perhitungan jumlah seluruh penumpang kereta pada file passenger.csv dengan mengabaikan baris header.
 
 #### Code
 ```awk
 NR > 1 {count++}
 END {print "Jumlah seluruh penumpang KANJ adalah " count " orang"}
+```
 
 #### Output
+```text
 Jumlah seluruh penumpang KANJ adalah X orang
+```
 
 ### b. Menghitung jumlah gerbong
 
