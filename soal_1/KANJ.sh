@@ -5,7 +5,7 @@ BEGIN {
 
     if (mode != "a" && mode != "b" && mode != "c" && mode != "d" && mode != "e") {
         print "Soal tidak dikenali. Gunakan a, b, c, d, atau e."
-        print "Contoh penggunaan: awk -f file.sh data.csv a"
+        print "Contoh penggunaan: awk -f KANJ.sh passenger.csv a"
         exit
     }
 }
