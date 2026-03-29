@@ -162,14 +162,10 @@ Menampilkan jumlah penumpang yang berada di kelas Business.
 
 Output:
 #### Output subsoal a
-<p align="center">
-  <img src="soal_1/assets/ss-output-a.png" alt="Output subsoal a" width="850">
-</p>
+![Output subsoal a](soal_1/assets/ss-output-a.png)
 
 #### Output subsoal b
-<p align="center">
-  <img src="soal_1/assets/ss-output-b.png" alt="Output subsoal b" width="850">
-</p>
+
 
 #### Output subsoal c
 <p align="center">
