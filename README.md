@@ -463,12 +463,12 @@ Agar hasil bisa langsung dilihat tanpa harus membuka file output.
 ## Output Soal 2
 
 ### Output parserkoordinat.sh
-![Parsing Koordinat](ss-output-parser.png)
+![Parsing Koordinat](assets/ss-output-parser.png)
 
 ---
 
 ### Output nemupusaka.sh
-![Nemu Pusaka](ss-output-pusaka.png)
+![Nemu Pusaka](assets/ss-output-pusaka.png)
 
 ---
 
