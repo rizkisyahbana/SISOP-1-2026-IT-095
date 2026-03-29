@@ -463,30 +463,22 @@ Agar hasil bisa langsung dilihat tanpa harus membuka file output.
 ## Output Soal 2
 
 ### Output parserkoordinat.sh
-<p align="center">
-  <img src="assets/peta-gunung-kawi/ss-output-parser.png" width="700">
-</p>
+![Parsing Koordinat](ss-output-parser.png)
 
 ---
 
 ### Output nemupusaka.sh
-<p align="center">
-  <img src="assets/peta-gunung-kawi/ss-output-pusaka.png" width="700">
-</p>
+![Nemu Pusaka](ss-output-pusaka.png)
 
 ---
 
 ### Isi titik-penting.txt
-<p align="center">
-  <img src="assets/peta-gunung-kawi/ss-titik.png" width="700">
-</p>
+![Titik Penting](assets/ss-titik.png)
 
 ---
 
 ### Isi posisipusaka.txt
-<p align="center">
-  <img src="assets/peta-gunung-kawi/ss-posisi.png" width="700">
-</p>
+![Posisi Pusaka](assets/ss-posisi.png)
 
 ## Kendala / Error Soal 2
 
