@@ -163,38 +163,38 @@ Menampilkan jumlah penumpang yang berada di kelas Business.
 Output:
 #### Output subsoal a
 <p align="center">
-  <img src="soal_1/ss-output-a.png" alt="Output subsoal a" width="850">
+  <img src="soal_1/assets/ss-output-a.png" alt="Output subsoal a" width="850">
 </p>
 
 #### Output subsoal b
 <p align="center">
-  <img src="soal_1/ss-output-b.png" alt="Output subsoal b" width="850">
+  <img src="soal_1/assets/ss-output-b.png" alt="Output subsoal b" width="850">
 </p>
 
 #### Output subsoal c
 <p align="center">
-  <img src="soal_1/ss-output-c.png" alt="Output subsoal c" width="850">
+  <img src="soal_1/assets/ss-output-c.png" alt="Output subsoal c" width="850">
 </p>
 
 #### Output subsoal d
 <p align="center">
-  <img src="soal_1/ss-output-d.png" alt="Output subsoal d" width="850">
+  <img src="soal_1/assets/ss-output-d.png" alt="Output subsoal d" width="850">
 </p>
 
 #### Output subsoal e
 <p align="center">
-  <img src="soal_1/ss-output-e.png" alt="Output subsoal e" width="850">
+  <img src="soal_1/assets/ss-output-e.png" alt="Output subsoal e" width="850">
 </p>
 
 #### Output input tidak valid
 <p align="center">
-  <img src="soal_1/ss-output-error.png" alt="Output input salah" width="850">
+  <img src="soal_1/assets/ss-output-error.png" alt="Output input salah" width="850">
 </p>
 
 ---
 
 ## Kendala / Error Soal 1
-
+Tidak ada Kendala
  
 # Soal 2 - Ekspedisi Pusaka Gunung Kawi
 
@@ -477,28 +477,28 @@ Agar hasil bisa langsung dilihat tanpa harus membuka file output.
 
 ### Output parserkoordinat.sh
 <p align="center">
-  <img src="soal_2/peta-gunung-kawi/ss-output-parser.png" width="700">
+  <img src="soal_2/assets/peta-gunung-kawi/ss-output-parser.png" width="700">
 </p>
 
 ---
 
 ### Output nemupusaka.sh
 <p align="center">
-  <img src="soal_2/peta-gunung-kawi/ss-output-pusaka.png" width="700">
+  <img src="soal_2/assets/peta-gunung-kawi/ss-output-pusaka.png" width="700">
 </p>
 
 ---
 
 ### Isi titik-penting.txt
 <p align="center">
-  <img src="soal_2/peta-gunung-kawi/ss-titik.png" width="700">
+  <img src="soal_2/assets/peta-gunung-kawi/ss-titik.png" width="700">
 </p>
 
 ---
 
 ### Isi posisipusaka.txt
 <p align="center">
-  <img src="soal_2/peta-gunung-kawi/ss-posisi.png" width="700">
+  <img src="soal_2/assets/peta-gunung-kawi/ss-posisi.png" width="700">
 </p>
 
 ## Kendala / Error Soal 2
