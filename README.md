@@ -160,31 +160,24 @@ print "Jumlah penumpang business class ada " total_business " orang"
 ```
 Menampilkan jumlah penumpang yang berada di kelas Business.
 
-Output:
+## Output:
 #### Output subsoal a
 ![Output subsoal a](assets/ss-output-a.png)
 
-#### Output subsoal b
-![Output subsoal a](soal_1/assets/ss-output-b.png)
+## Output subsoal b
+![Output subsoal b](/assets/ss-output-b.png)
 
-#### Output subsoal c
-![Output subsoal a](soal_1/assets/ss-output-c.png)
+## Output subsoal c
+![Output subsoal c](/assets/ss-output-c.png)
 
 #### Output subsoal d
-<p align="center">
-  <img src="soal_1/assets/ss-output-d.png" alt="Output subsoal d" width="850">
-</p>
+![Output subsoal d](/assets/ss-output-d.png)
 
 #### Output subsoal e
-<p align="center">
-  <img src="soal_1/assets/ss-output-e.png" alt="Output subsoal e" width="850">
-</p>
+![Output subsoal e](/assets/ss-output-e.png)
 
 #### Output input tidak valid
-<p align="center">
-  <img src="soal_1/assets/ss-output-error.png" alt="Output input salah" width="850">
-</p>
-
+![Output subsoal error](/assets/ss-output-error.png)
 ---
 
 ## Kendala / Error Soal 1
@@ -471,28 +464,28 @@ Agar hasil bisa langsung dilihat tanpa harus membuka file output.
 
 ### Output parserkoordinat.sh
 <p align="center">
-  <img src="soal_2/assets/peta-gunung-kawi/ss-output-parser.png" width="700">
+  <img src="assets/peta-gunung-kawi/ss-output-parser.png" width="700">
 </p>
 
 ---
 
 ### Output nemupusaka.sh
 <p align="center">
-  <img src="soal_2/assets/peta-gunung-kawi/ss-output-pusaka.png" width="700">
+  <img src="assets/peta-gunung-kawi/ss-output-pusaka.png" width="700">
 </p>
 
 ---
 
 ### Isi titik-penting.txt
 <p align="center">
-  <img src="soal_2/assets/peta-gunung-kawi/ss-titik.png" width="700">
+  <img src="assets/peta-gunung-kawi/ss-titik.png" width="700">
 </p>
 
 ---
 
 ### Isi posisipusaka.txt
 <p align="center">
-  <img src="soal_2/assets/peta-gunung-kawi/ss-posisi.png" width="700">
+  <img src="assets/peta-gunung-kawi/ss-posisi.png" width="700">
 </p>
 
 ## Kendala / Error Soal 2
